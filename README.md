@@ -117,4 +117,7 @@ This project is a real-time vehicle tracking system utilizing the SIM808 GPS mod
 ## Contributing
 Feel free to fork this repository, submit issues, and create pull requests. Contributions are always welcome!
 
+---
+
+## LICENSE
 
